@@ -1,4 +1,4 @@
-# Gestión de Pedidos de Café con Python y Threads
+# Gestión de Pedidos de Café
 ## Descripción
 
 Este proyecto es una simulación de la gestión de pedidos en una cafetería utilizando Python y programación multihilo. Se implementan procesos como tomar órdenes, preparar café y servir pedidos para varios clientes.
